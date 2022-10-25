@@ -1,4 +1,6 @@
-# onboarding-aula2
+# Onboarding-vue
+
+## Códigos mostrados durante a aula 2 do treinamento de Vue 2
 
 ## Project setup
 ```
